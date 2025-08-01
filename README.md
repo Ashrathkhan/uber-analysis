@@ -43,5 +43,5 @@ This project analyzes Uber trip request data to uncover demand peaks, cancellati
 
 ## 📬 Contact
 For collaboration or questions:  
-**Ashrath** — [Insert email or LinkedIn]
+**Ashrath** — https://www.linkedin.com/in/ashrath-a-808b7328b/
 
